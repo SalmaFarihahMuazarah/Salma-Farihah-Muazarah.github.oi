@@ -4,7 +4,7 @@
 }
 
 header {
-    background: url("<img src="https://i.ibb.co/4MgcmQb/gambar-statistic.jpg" alt="gambar-statistic" border="0">") no-repeat;
+    background: url("gambar/gambar_statistic.jpg") no-repeat;
     background-color: #a09d9d;
     background-blend-mode: soft-light;
     opacity: .8;
